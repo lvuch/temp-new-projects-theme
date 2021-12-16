@@ -1,5 +1,4 @@
 ---
-# background: //via.placeholder.com/350x150
 title: "Write the best title for your page."
 subtitle: "Every landing page needs a small description after the big bold title."
 description: A brief paragraph describing what the project is and what end user problem it solve. Emphasis should be on what this project does for someone.
